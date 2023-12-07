@@ -1,0 +1,201 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e2432; /* Azul escuro */
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    font-family: 'IBM Plex Serif', serif;
+   
+}
+
+header {
+    background-color: #0f1531; /* Azul mais escuro */
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightgray;
+}body {
+    font-family: Arial, sans-serif;
+    background-color: #1e2432; /* Azul escuro */
+    color: white;
+    margin: 15px;
+    padding: 0;
+}
+
+header {
+    background-color: #0f1531; /* Azul mais escuro */
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+   
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+img{
+    text-align: left;
+}
+.onen{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'IBM Plex Serif', serif;
+    
+
+}
+.tuo{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'IBM Plex Serif', serif;
+}
+.one{
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    margin: 100px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.quemsomos{
+    text-align: center;
+    font-size: 30px;
+    margin: 100px;
+    border-radius: 30px;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+}
+.copy{
+    text-align: center;
+}
+
+/* serviços */
+
+.formum{
+    text-align: center;
+}
+.um{
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+.formdois{
+    text-align: center;
+}
+.dois{
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+.formtres{
+    text-align: center;
+}
+.tres{
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+.formquatro{
+    text-align: center;
+}
+.quatro{
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+.formcinco{
+    text-align: center;
+}
+.cinco{
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.s1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'IBM Plex Serif', serif;
+}
+.s2{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.s3{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.copy2{
+    text-align: center;
+    
+}
+
+/* forms */
+
+input{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+textarea{
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+/* contato */
+
+.cont{
+    text-align: center;
+}
+
+.contTxT{
+    text-align: center;
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 50px;
+}
+    
